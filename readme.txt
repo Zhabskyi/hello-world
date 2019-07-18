@@ -1,3 +1,1 @@
-Hello world
-Life
-No way!
+Hellow
